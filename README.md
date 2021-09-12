@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yogajulianp
-- 👀 I’m interested in front end engineer and android
+- 👀 I’m interested in web engineer and android
 - 🌱 I’m currently learning html, CSS, JavaScript
 and still focus for study and practice
 - 📫 How to reach me ...
