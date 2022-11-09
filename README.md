@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogajulianp
-- 👀 I’m interested in web engineer and android
-- 🌱 I’m currently learning html, CSS, JavaScript
+- 👀 I’m interested in web engineer 
+- 🌱 I’m currently learning JavaScript, node.js, typeScript
 and still focus for study and practice
 - 📫 How to reach me ...
 GitHub.com/yogajulianp
