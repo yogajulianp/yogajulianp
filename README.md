@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yogajulianp
-- 👀 I’m interested in web engineer 
-- 🌱 I’m currently learning JavaScript, node.js, typeScript
+- 👀 I’m interested in software engineer 
 and still focus for study and practice
 - 📫 How to reach me ...
 GitHub.com/yogajulianp
